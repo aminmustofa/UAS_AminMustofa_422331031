@@ -1,0 +1,12 @@
+{
+    "name": "toko-online/amin-mustofa",
+    "description": "Membuat Project Toko Online",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Amin Mustofa",
+            "email": "aminmustofa3105@gmail.com"
+        }
+    ],
+    "require": {}
+}
